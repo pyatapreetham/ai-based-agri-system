@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  Smart Agriculture Prediction System 
 
 A Machine Learning based web application developed to help farmers predict crop yield and get fertilizer recommendations using agricultural data.
@@ -111,3 +112,6 @@ http://127.0.0.1:5000
 
 Preetham , vedaant
 Computer Science Students
+=======
+# ai-based-agri-system
+>>>>>>> cac2ef7c21d574539e7c91272f67ed7a8cd00a64
